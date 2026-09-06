@@ -55,8 +55,6 @@ Ahora mismo ando con app en Dart para un gym.
 
 ### Actividad
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=AdanDev27&show_icons=true&hide_border=true&hide_title=true&theme=transparent&locale=es" alt="Estadísticas de GitHub" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanDev27&layout=compact&hide_border=true&theme=transparent&locale=es&langs_count=8" alt="Lenguajes que más uso" />
 
 ### Dónde encontrarme
 
