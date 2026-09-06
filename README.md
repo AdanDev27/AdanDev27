@@ -1,4 +1,4 @@
-## Adán
+## Adan
 
 Ingeniero en sistemas. Casi todo lo que programo empieza igual: algo que estaba
 haciendo a mano y me cansé de repetir.
@@ -61,4 +61,4 @@ Ahora mismo ando con app en Dart para un gym.
 
 
 
-- LinkedIn: [Adan Manzano]([https://linkedin.com/in/adan-manzano](https://www.linkedin.com/in/adan-manzano-963a2921a?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- LinkedIn: [Adan Manzano]([https://linkedin.com/in/adan-manzano](https://www.linkedin.com/in/adan-manzano-963a2921a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
