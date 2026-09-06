@@ -8,8 +8,8 @@ a lo que pida el proyecto: React o Vue si es web, Flutter si es móvil, Java o C
 cuando hace falta algo con más peso detrás. Las bases de datos casi siempre acaban
 siendo SQL.
 
-<!-- Cambia esta línea cuando cambies de proyecto, o bórrala si no te apetece tenerla. -->
-Ahora mismo ando con [tu proyecto actual].
+
+Ahora mismo ando con app en Dart para un gym.
 
 ### Con lo que trabajo
 
@@ -42,10 +42,7 @@ Ahora mismo ando con [tu proyecto actual].
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<!--
-Para añadir una tecnología: copia una línea de arriba y cambia el nombre, el color
-y el slug del logo. Los slugs están en https://simpleicons.org
-Algunas por si las necesitas:
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -54,7 +51,7 @@ Algunas por si las necesitas:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
--->
+
 
 ### Actividad
 
@@ -63,7 +60,7 @@ Algunas por si las necesitas:
 
 ### Dónde encontrarme
 
-<!-- Deja solo lo que uses de verdad. -->
 
-- Correo: [tu@correo.com](mailto:tu@correo.com)
-- LinkedIn: [tu perfil](https://linkedin.com/in/tu-usuario)
+
+
+- LinkedIn: [Adan Manzano]([https://linkedin.com/in/adan-manzano](https://www.linkedin.com/in/adan-manzano-963a2921a?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
